@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/diorama-demo/precache-manifest.5e419fcaadcde4713529595779ea0804.js"
+  "/diorama-demo/precache-manifest.708879eee0abaaedb44574a06bbbdcb0.js"
 );
 
 workbox.clientsClaim();
