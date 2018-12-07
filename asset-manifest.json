@@ -1,7 +1,7 @@
 {
   "main.css": "/diorama-demo/static/css/main.856cc382.chunk.css",
-  "main.js": "/diorama-demo/static/js/main.28b673f2.chunk.js",
-  "main.js.map": "/diorama-demo/static/js/main.28b673f2.chunk.js.map",
+  "main.js": "/diorama-demo/static/js/main.2efffd1b.chunk.js",
+  "main.js.map": "/diorama-demo/static/js/main.2efffd1b.chunk.js.map",
   "static/js/1.fd7139ed.chunk.js": "/diorama-demo/static/js/1.fd7139ed.chunk.js",
   "static/js/1.fd7139ed.chunk.js.map": "/diorama-demo/static/js/1.fd7139ed.chunk.js.map",
   "runtime~main.js": "/diorama-demo/static/js/runtime~main.21491843.js",
@@ -13,6 +13,6 @@
   "static/media/sam.jpg": "/diorama-demo/static/media/sam.d255a344.jpg",
   "static/css/main.856cc382.chunk.css.map": "/diorama-demo/static/css/main.856cc382.chunk.css.map",
   "index.html": "/diorama-demo/index.html",
-  "precache-manifest.f669eaf89b5c3adfa55e54cec9e51d18.js": "/diorama-demo/precache-manifest.f669eaf89b5c3adfa55e54cec9e51d18.js",
+  "precache-manifest.e2a94c976ef1b2de041139d8d291a181.js": "/diorama-demo/precache-manifest.e2a94c976ef1b2de041139d8d291a181.js",
   "service-worker.js": "/diorama-demo/service-worker.js"
 }
