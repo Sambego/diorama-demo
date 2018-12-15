@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/diorama-demo/static/js/runtime~main.21491843.js"
   },
   {
-    "revision": "2ecd8b78d0f2414158c1",
-    "url": "/diorama-demo/static/js/main.2ecd8b78.chunk.js"
+    "revision": "fec804df7a71837255a9",
+    "url": "/diorama-demo/static/js/main.fec804df.chunk.js"
   },
   {
     "revision": "af20aa1360e13690c83c",
     "url": "/diorama-demo/static/js/1.af20aa13.chunk.js"
   },
   {
-    "revision": "2ecd8b78d0f2414158c1",
+    "revision": "fec804df7a71837255a9",
     "url": "/diorama-demo/static/css/main.792135e7.chunk.css"
   },
   {
-    "revision": "151ef39e6b6777de3bde6b220f143a31",
+    "revision": "76dd39bb6457c978b0abe15d4b868fb8",
     "url": "/diorama-demo/index.html"
   }
 ];
