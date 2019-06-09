@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/diorama-demo/static/media/husky.5bec1ccd.jpg"
   },
   {
-    "revision": "86f69c7c34972f3e2dbf",
+    "revision": "3fc960c09c481f610776",
     "url": "/diorama-demo/static/css/main.8cd9a2c5.chunk.css"
   },
   {
-    "revision": "464de23e806b8d24a4dc",
-    "url": "/diorama-demo/static/js/1.464de23e.chunk.js"
+    "revision": "b6a0d15f0ca6b228d786",
+    "url": "/diorama-demo/static/js/1.b6a0d15f.chunk.js"
   },
   {
     "revision": "2149184308579155309a",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/diorama-demo/static/media/sam.139ebcfa.jpg"
   },
   {
-    "revision": "86f69c7c34972f3e2dbf",
-    "url": "/diorama-demo/static/js/main.86f69c7c.chunk.js"
+    "revision": "3fc960c09c481f610776",
+    "url": "/diorama-demo/static/js/main.3fc960c0.chunk.js"
   },
   {
     "revision": "ef8f4a5272a911a5bb54d6514ed5d015",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/diorama-demo/static/media/iceland.7ea72d13.mp4"
   },
   {
-    "revision": "b0527673b65ae959e799408e423fa0f5",
+    "revision": "598fd8988b2dbcc665345db3beba9bb4",
     "url": "/diorama-demo/index.html"
   }
 ];
